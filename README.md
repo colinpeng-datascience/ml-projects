@@ -22,4 +22,7 @@ This repository contains reports of various machine learning projects covering d
 **Co-authors:** Yonnie Chan, Youngmin Kim\
 **Problem Statement:** The goal is to predict the crime rate of each sector in Chicago using Bayesian models. The study aims to understand the distribution of crimes across the sectors of Chicago and during different months.
 
-Feel free to examine the pdf files for more in-depth details into each of the projects. Further information is available upon request. Feel free to send email to colin100113 at gmail dot com
+##
+Feel free to examine the pdf files for more in-depth details into each of the projects. \
+Further information is available upon request. \
+Contact: colin100113 at gmail dot com
