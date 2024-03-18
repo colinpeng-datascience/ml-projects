@@ -10,6 +10,7 @@ This repository contains reports of various machine learning projects covering d
 
 ## LiDAR-SLAM with Semantic Segmentation - Directed Study
 **Title:** Improving LONER with Semantic Segmentation\
+**Advisor:** Prof. Katherine A. Skinner
 **Abstract:** LONER is a real-time LiDAR SLAM algorithm that utilizes NeRF. We proposed an enhancement for LONER with the incorporation of SalsaNext, a state-of-the-art real-time Lidar semantic segmentation model. Our results indicate improvements in trajectory estimation, notably in scenarios with significant car movements.
 
 ## Predicting Student Performance - Machine Learning
