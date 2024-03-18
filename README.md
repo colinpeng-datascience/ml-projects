@@ -6,7 +6,7 @@ This repository contains reports of various machine learning projects covering d
 ## ELL English Essay Grading - Natural Language Programming
 **Title:** EECS 595 Final Project Report: AES (Automatic Essay Scoring) for ELLs (English Language Learners)\
 **Co-authors:** Suhyun Jung, Youngmin Kim\
-**Abstract:** Our project focuses on building a model for scoring essays written by English Language Learners by considering various scores like cohesion, syntax, vocabulary, phraseology, grammar, conventions, and more. The combined model, developed through a novel two-step method, achieved an average QWK (Quadratic Weighted Kappa) of 0.669.
+**Abstract:** Our project focuses on building a model for scoring essays written by English Language Learners by considering various scores like cohesion, syntax, vocabulary, phraseology, grammar, conventions, and more. We also developed a novel two-step method to combine hand-crafted features with pre-trained features. The combined model, developed through a novel two-step method, achieved an average QWK (Quadratic Weighted Kappa) of 0.669.
 
 ## LiDAR-SLAM with Semantic Segmentation - Directed Study
 **Title:** Improving LONER with Semantic Segmentation\
